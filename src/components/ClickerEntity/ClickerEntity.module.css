@@ -1,0 +1,12 @@
+h1 {
+    font-size: 60px;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    align-self: center;
+}
