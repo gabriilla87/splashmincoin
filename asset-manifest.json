@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/splashmincoin/static/css/main.939ac991.css",
+    "main.js": "/splashmincoin/static/js/main.dd36cd4a.js",
+    "static/js/453.b446b7dc.chunk.js": "/splashmincoin/static/js/453.b446b7dc.chunk.js",
+    "static/media/maxPicture.png": "/splashmincoin/static/media/maxPicture.3804f50ea92f008e6b6c.png",
+    "index.html": "/splashmincoin/index.html",
+    "main.939ac991.css.map": "/splashmincoin/static/css/main.939ac991.css.map",
+    "main.dd36cd4a.js.map": "/splashmincoin/static/js/main.dd36cd4a.js.map",
+    "453.b446b7dc.chunk.js.map": "/splashmincoin/static/js/453.b446b7dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.939ac991.css",
+    "static/js/main.dd36cd4a.js"
+  ]
+}
